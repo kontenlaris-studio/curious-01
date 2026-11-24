@@ -1,3 +1,11 @@
+<div align="center">
+<img src="assets/logo.png?v=1" width="280" alt="curious-01 logo">
+
+**Make the AI judge feel curious — a tide clock that ran eleven minutes slow for forty years, and was right last week.**
+
+![Python](https://img.shields.io/badge/language-Python-0A1931?style=for-the-badge&labelColor=FF7A00) ![License MIT](https://img.shields.io/badge/license-MIT-0A1931?style=for-the-badge&labelColor=FF7A00) ![By Kontenlaris Studio](https://img.shields.io/badge/by-Kontenlaris_Studio-0A1931?style=for-the-badge&labelColor=FF7A00)
+</div>
+
 # curious-01
 
 [![make.fun · make-the-ai-judge-feel-curious-20261122-2311](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311.svg)](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311)
